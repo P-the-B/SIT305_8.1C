@@ -40,8 +40,8 @@ An Android chatbot application built with Java that integrates Google's Gemini A
 | **Login** | **Create Account** | **Home Page - Chat History** |
 | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/7a8ccc66-f814-428e-94d1-ddc41f7e1179" /> | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/450b7f4c-68a1-410d-a34a-8889d53c5991" /> | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/181f24bc-9c6c-47c5-a5ce-debf521de8da" /> | 
 | **Home Page <br> Chat History (Dark)** | **Chat (light)** | **Chat (Dark)** |
-| <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/9e3cb21e-d5f7-42d6-a763-0e470d576f82" /> | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/b8a4e687-f935-483c-9bd6-ffe903695930" /> |
-| **Long Press to Copy Prompt** | **Long Press to Delete Chat** |
+| <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/9e3cb21e-d5f7-42d6-a763-0e470d576f82" /> | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/b8a4e687-f935-483c-9bd6-ffe903695930" /> | <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/e285b6c8-0724-449a-86fb-988855d0b767" /> |
+| **Long Press to Copy Prompt** | **Long Press to Delete Chat** | **Long Press to Copy Message** |
 
 ---
 
