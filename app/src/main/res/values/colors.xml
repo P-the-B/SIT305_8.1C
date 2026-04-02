@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal_200">#FF80CBC4</color>
+    <color name="teal_700">#FF00796B</color>
+    <color name="user_bubble">#FF00796B</color>
+    <color name="ai_bubble">#FFE0E0E0</color>
+    <color name="background_grey">#FFF5F5F5</color>
+    <color name="dark_background">#FF121212</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="dark_ai_bubble">#FF2C2C2C</color>
+    <color name="dark_user_bubble">#FF00897B</color>
+    <color name="input_bar_bg">#FFFFFFFF</color>
+    <color name="input_field_bg">#FFF0F0F0</color>
+    <color name="input_text_color">#FF212121</color>
+    <color name="input_hint_color">#FF9E9E9E</color>
+    <color name="ai_bubble_text">#FF212121</color>
+</resources>
