@@ -63,10 +63,12 @@ public class ThreadListActivity extends AppCompatActivity {
 
     private void setupDarkModeSwitch() {
         SwitchCompat toggle = binding.switchDarkMode;
-        // set state before attaching listener to avoid firing on programmatic check
         toggle.setChecked(themeManager.isDarkMode());
-        toggle.setOnCheckedChangeListener((btn, isChecked) ->
-                themeManager.setDarkMode(isChecked));
+        toggle.setOnCheckedChangeListener((btn, isChecked) -> {
+            if (isChecked != themeManager.isDarkMode()) {
+                themeManager.setDarkMode(isChecked);
+            }
+        });
     }
 
     private void setupRecyclerView() {
